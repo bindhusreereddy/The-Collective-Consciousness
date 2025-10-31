@@ -1,0 +1,182 @@
+{
+    "data": [
+        {   "id":10,
+            "session_num":1,
+                "attempts": {
+                "correct": 6,
+                "wrong": 2,
+                "totalCorrectTime": 4.087,
+                "totalWrongTime": 7.866,
+                "fullRestarts":1,
+                "allCorrectAttempt":0
+                },
+                "studentStats":{
+                    "starsEarnedFromThisGame":12,
+                    "starsEarnedLastAttempt":2,
+                    "currentStars":45,
+                    "lastAttemptedGame":"stairsandslides",
+                    "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+                    "allGamesAttempted":true,
+                    "hintsTaken":3
+                },
+                "words": [
+                    "Fallopian Tube",
+                    "Ovary",
+                    "Uterus",
+                    "Vagina",
+                    "Cervix",
+                    "Ovarian Ligament"
+                ],
+                "usedWords": [
+                    "Fallopian Tube",
+                    "Ovary",
+                    "Uterus",
+                    "Vagina",
+                    "Cervix",
+                    "Ovarian Ligament"
+                ],
+                "startingTime": "2021-05-18T07:54:06.747Z",
+                "lastAttemptTime": "2021-05-18T08:07:10.569Z"
+            },
+            {"id":10,
+            "session_num":2,
+                "attempts": {
+                "correct": 3,
+                "wrong": 5,
+                "totalCorrectTime": 4.087,
+                "totalWrongTime": 9.866,
+                "fullRestarts":1,
+                "allCorrectAttempt":2
+                },
+                "studentStats":{
+                    "starsEarnedFromThisGame":3,
+                    "starsEarnedLastAttempt":12,
+                    "currentStars":48,
+                    "lastAttemptedGame":"hygeinerun",
+                    "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+                    "allGamesAttempted":true,
+                    "hintsTaken":5
+                },
+                "words": [
+                    "Fallopian Tube",
+                    "Ovary",
+                    "Uterus",
+                    "Vagina",
+                    "Cervix",
+                    "Ovarian Ligament"
+                ],
+                "usedWords": [
+                    "Fallopian Tube",
+                    "Vagina",
+                    "Cervix"
+                ],
+                "startingTime": "2021-05-18T02:24:06.747Z",
+                "lastAttemptTime": "2021-05-18T02:45:10.569Z"
+            },
+            {"id":10,
+            "session_num":3,
+                "attempts": {
+                "correct": 2,
+                "wrong": 6,
+                "totalCorrectTime": 2.087,
+                "totalWrongTime": 11.866,
+                "fullRestarts":3,
+                "allCorrectAttempt":0
+                },
+                "studentStats":{
+                    "starsEarnedFromThisGame":1,
+                    "starsEarnedLastAttempt":3,
+                    "currentStars":37,
+                    "lastAttemptedGame":"hygeinerun",
+                    "lastAttemptedCurrentGameAt":"2021-05-14T03:52:06.717Z",
+                    "allGamesAttempted":true,
+                    "hintsTaken":10
+                },
+                "words": [
+                    "Fallopian Tube",
+                    "Ovary",
+                    "Uterus",
+                    "Vagina",
+                    "Cervix",
+                    "Ovarian Ligament"
+                ],
+                "usedWords": [
+                    "Fallopian Tube",
+                     "Uterus"
+                ],
+                "startingTime": "2021-05-18T01:24:06.747Z",
+                "lastAttemptTime": "2021-05-18T01:50:10.569Z"
+            },
+            {"id":10,
+            "session_num":4,
+                "attempts": {
+                "correct": 4,
+                "wrong": 3,
+                "totalCorrectTime": 6.087,
+                "totalWrongTime": 5.866,
+                "fullRestarts":2,
+                "allCorrectAttempt":1
+                },
+                "studentStats":{
+                    "starsEarnedFromThisGame":1,
+                    "starsEarnedLastAttempt":3,
+                    "currentStars":50,
+                    "lastAttemptedGame":"hygeinerun",
+                    "lastAttemptedCurrentGameAt":"2021-05-14T01:22:06.717Z",
+                    "allGamesAttempted":true,
+                    "hintsTaken":6
+                },
+                "words": [
+                    "Fallopian Tube",
+                    "Ovary",
+                    "Uterus",
+                    "Vagina",
+                    "Cervix",
+                    "Ovarian Ligament"
+                ],
+                "usedWords": [
+                    "Cervix",
+                   "Uterus",
+                    "Vagina",
+                    "Ovarian Ligament"
+                ],
+                "startingTime": "2021-05-18T01:24:06.747Z",
+                "lastAttemptTime": "2021-05-18T01:50:10.569Z"
+            },
+            {"id":10,
+            "session_num":5,
+                "attempts": {
+                "correct": 5,
+                "wrong": 2,
+                "totalCorrectTime": 9.087,
+                "totalWrongTime": 3.866,
+                "fullRestarts":3,
+                "allCorrectAttempt":2
+                },
+                "studentStats":{
+                    "starsEarnedFromThisGame":1,
+                    "starsEarnedLastAttempt":3,
+                    "currentStars":42,
+                    "lastAttemptedGame":"hygeinerun",
+                    "lastAttemptedCurrentGameAt":"2021-05-14T01:22:06.717Z",
+                    "allGamesAttempted":true,
+                    "hintsTaken":6
+                },
+                "words": [
+                    "Fallopian Tube",
+                    "Ovary",
+                    "Uterus",
+                    "Vagina",
+                    "Cervix",
+                    "Ovarian Ligament"
+                ],
+                "usedWords": [
+                    "Fallopian Tube",
+                    "Ovarian Ligament"
+                ],
+                "startingTime": "2021-05-18T07:14:06.747Z",
+                "lastAttemptTime": "2021-05-18T07:22:10.569Z"
+            }
+    ]
+}
+

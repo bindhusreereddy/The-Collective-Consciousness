@@ -1,0 +1,22 @@
+[
+    {
+        "percentile": "25th",
+        "val":7.0
+    },
+    {
+        "percentile": "50th",
+        "val":9.5
+    },    
+    {
+        "percentile": "75th",
+        "val":10.75
+    },
+    {
+        "percentile": "90th",
+        "val":12.0
+    },
+    {
+        "percentile": "99th",
+        "val":12.0
+    }
+]

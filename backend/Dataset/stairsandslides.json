@@ -1,0 +1,254 @@
+{
+    "students":[
+     {"id":1,
+        "attempts": {
+            "correct": 2,
+            "wrong": 2,
+            "totalCorrectTime": 5.078,
+            "totalWrongTime": 9.486,
+            "fullRestarts":1,
+            "allCorrectAttempt":0
+        },
+        "studentStats":{
+            "starsEarnedFromThisGame":4,
+            "starsEarnedLastAttempt":2,
+            "currentStars":25,
+            "lastAttemptedGame":"mumblejumble",
+            "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+            "allGamesAttempted":false,
+            "hintsTaken":3
+        },
+        "awayFromFinish":20,
+        "numberOfRolls":12,
+        "stairsClimbed":1,
+        "slidesTaken":2,
+        "startingTime": "2021-05-18T07:54:06.747Z",
+        "lastAttemptTime": "2021-05-18T08:15:5.569Z"
+    },
+    {"id":2,
+        "attempts": {
+            "correct": 3,
+            "wrong": 1,
+            "totalCorrectTime": 9.486,
+            "totalWrongTime": 5.078,
+            "fullRestarts":0,
+            "allCorrectAttempt":1
+        },
+        "studentStats":{
+            "starsEarnedFromThisGame":7,
+            "starsEarnedLastAttempt":4,
+            "currentStars":32,
+            "lastAttemptedGame":"hygeinerun",
+            "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+            "allGamesAttempted":false,
+            "hintsTaken":1
+        },
+        "awayFromFinish":0,
+        "numberOfRolls":10,
+        "stairsClimbed":5,
+        "slidesTaken":2,
+        "startingTime": "2021-05-18T07:54:06.747Z",
+        "lastAttemptTime": "2021-05-18T08:10:19.569Z"
+        },
+    {"id":3,
+        "attempts": {
+            "correct": 5,
+            "wrong": 2,
+            "totalCorrectTime": 10.054,
+            "totalWrongTime": 9.942,
+            "fullRestarts":2,
+            "allCorrectAttempt":0
+        },
+        "studentStats":{
+            "starsEarnedFromThisGame":6,
+            "starsEarnedLastAttempt":2,
+            "currentStars":28,
+            "lastAttemptedGame":"hygeinerun",
+            "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+            "allGamesAttempted":false,
+            "hintsTaken":2
+        },
+        "awayFromFinish":10,
+        "numberOfRolls":10,
+        "stairsClimbed":3,
+        "slidesTaken":3,
+        "startingTime": "2021-05-18T07:54:06.747Z",
+        "lastAttemptTime": "2021-05-18T08:21:19.569Z"
+        },
+    {"id":4,
+        "attempts": {
+            "correct": 3,
+            "wrong": 2,
+            "totalCorrectTime": 8.128,
+            "totalWrongTime": 4.572,
+            "fullRestarts":2,
+            "allCorrectAttempt":1
+        },
+        "studentStats":{
+            "starsEarnedFromThisGame":4,
+            "starsEarnedLastAttempt":3,
+            "currentStars":25,
+            "lastAttemptedGame":"mumblejumble",
+            "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+            "allGamesAttempted":false,
+            "hintsTaken":4
+        },
+        "awayFromFinish":5,
+        "numberOfRolls":15,
+        "stairsClimbed":5,
+        "slidesTaken":3,
+        "startingTime": "2021-05-18T07:54:06.747Z",
+        "lastAttemptTime": "2021-05-18T08:07:30.569Z"
+        },
+    {"id":5,
+        "attempts": {
+            "correct": 6,
+            "wrong": 2,
+            "totalCorrectTime": 12.5,
+            "totalWrongTime": 3.232,
+            "fullRestarts":3,
+            "allCorrectAttempt":0
+        },
+        "studentStats":{
+            "starsEarnedFromThisGame":8,
+            "starsEarnedLastAttempt":5,
+            "currentStars":22,
+            "lastAttemptedGame":"reproductivepuzzle",
+            "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+            "allGamesAttempted":false,
+            "hintsTaken":4
+        },
+        "awayFromFinish":5,
+        "numberOfRolls":15,
+        "stairsClimbed":1,
+        "slidesTaken":2,
+        "startingTime": "2021-05-18T07:54:06.747Z",
+        "lastAttemptTime": "2021-05-18T08:20:17.569Z"
+        },
+    {"id":6,
+        "attempts": {
+            "correct": 5,
+            "wrong": 1,
+            "totalCorrectTime": 11.08,
+            "totalWrongTime": 5.56,
+            "fullRestarts":0,
+            "allCorrectAttempt":2
+        },
+        "studentStats":{
+            "starsEarnedFromThisGame":6,
+            "starsEarnedLastAttempt":4,
+            "currentStars":12,
+            "lastAttemptedGame":"mumblejumble",
+            "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+            "allGamesAttempted":false,
+            "hintsTaken":2
+        },
+        "awayFromFinish":8,
+        "numberOfRolls":15,
+        "stairsClimbed":2,
+        "slidesTaken":1,
+        "startingTime": "2021-05-18T07:54:06.747Z",
+        "lastAttemptTime": "2021-05-18T08:10:29.569Z"
+        },
+    {"id":7,
+        "attempts": {
+            "correct": 6,
+            "wrong": 1,
+            "totalCorrectTime": 9.078,
+            "totalWrongTime": 1.486,
+            "fullRestarts":0,
+            "allCorrectAttempt":0
+        },
+        "studentStats":{
+            "starsEarnedFromThisGame":7,
+            "starsEarnedLastAttempt":3,
+            "currentStars":16,
+            "lastAttemptedGame":"reproductivepuzzle",
+            "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+            "allGamesAttempted":false,
+            "hintsTaken":2
+        },
+        "awayFromFinish":5,
+        "numberOfRolls":12,
+        "stairsClimbed":3,
+        "slidesTaken":2,
+        "startingTime": "2021-05-18T07:54:06.747Z",
+        "lastAttemptTime": "2021-05-18T08:05:20.569Z"
+        },
+    {"id":8,
+        "attempts": {
+            "correct": 3,
+            "wrong": 2,
+            "totalCorrectTime": 7.04,
+            "totalWrongTime": 5.46,
+            "fullRestarts":2,
+            "allCorrectAttempt":1
+        },
+        "studentStats":{
+            "starsEarnedFromThisGame":8,
+            "starsEarnedLastAttempt":4,
+            "currentStars":20,
+            "lastAttemptedGame":"mumblejumble",
+            "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+            "allGamesAttempted":false,
+            "hintsTaken":3
+        },
+        "awayFromFinish":22,
+        "numberOfRolls":15,
+        "stairsClimbed":3,
+        "slidesTaken":2,
+        "startingTime": "2021-05-18T07:54:06.747Z",
+        "lastAttemptTime": "2021-05-18T08:06:12.569Z"
+        },
+    {"id":9,
+        "attempts": {
+            "correct": 6,
+            "wrong": 2,
+            "totalCorrectTime": 14.79,
+            "totalWrongTime": 5.50,
+            "fullRestarts":0,
+            "allCorrectAttempt":2
+        },
+        "studentStats":{
+            "starsEarnedFromThisGame":10,
+            "starsEarnedLastAttempt":5,
+            "currentStars":30,
+            "lastAttemptedGame":"mumblejumble",
+            "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+            "allGamesAttempted":false,
+            "hintsTaken":5
+        },
+        "awayFromFinish":0,
+        "numberOfRolls":10,
+        "stairsClimbed":3,
+        "slidesTaken":1,
+        "startingTime": "2021-05-18T07:54:06.747Z",
+        "lastAttemptTime": "2021-05-18T08:15:27.569Z"
+        },
+    {"id":10,
+        "attempts": {
+            "correct": 3,
+            "wrong": 1,
+            "totalCorrectTime": 6.05,
+            "totalWrongTime": 3.66,
+            "fullRestarts":0,
+            "allCorrectAttempt":2
+        },
+        "studentStats":{
+            "starsEarnedFromThisGame":6,
+            "starsEarnedLastAttempt":2,
+            "currentStars":10,
+            "lastAttemptedGame":"mumblejumble",
+            "lastAttemptedCurrentGameAt":"2021-05-14T01:52:06.717Z",
+            "allGamesAttempted":false,
+            "hintsTaken":2
+        },
+        "awayFromFinish":8,
+        "numberOfRolls":10,
+        "stairsClimbed":2,
+        "slidesTaken":1,
+        "startingTime": "2021-05-18T07:54:06.747Z",
+        "lastAttemptTime": "2021-05-18T08:15:27.569Z"
+        }            
+    ]
+}
