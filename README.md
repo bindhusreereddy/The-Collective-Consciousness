@@ -37,28 +37,6 @@ The platform aimed to empower educators and administrators to make data-driven d
 
 ---
 
-## 👩‍💻 Team Members
-
-- [Aditi Kamath](#)  
-- [Divyanshu Tyagi](#)  
-- [Rakshit Singh](#)  
-- [Praneeta Immadisetty](#)  
-- [Bindhu Sree Reddy](#)  
-- [Hartik Suhagiya](#)
-
----
-
-## 🙌 Mentors
-
-A heartfelt thanks to our mentors for their constant support and guidance:
-- **Karishma Patel**  
-- **Eswar Reddy Jangalapalli**
-
-Special thanks to:
-- **Mridula Nair**, **Anjana Soman**, **Rushab Parikh**, **Malavika Nair**, and the entire organizing team for orchestrating such a large-scale event seamlessly.
-
----
-
 ## 💬 Reflections
 
 Although we didn’t win, the experience was immensely rewarding.  
